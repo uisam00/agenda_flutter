@@ -1,16 +1,38 @@
-# agenda_contatos
+### agenda_contatos
+Aplicação Mobile feita com [Flutter](https://flutter.dev/) para gerenciar contatos armazenando os dados no [sqflite](https://pub.dev/packages/sqflite).
+## Tecnologias
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [sqflite](https://pub.dev/packages/sqflite)
 
-A new Flutter project.
+### Funcionalidades da aplicação
 
-## Getting Started
+* Adição de um novo contato.
+* Listagem de todos os contatos adicionados.
+* Edição de contatos já existentes.
+* Remoção de contatos já existente.
+* Adicionar foto para o contatos.
+* Ligar para um contatos.
+* Ordenar lista de contatos.
 
-This project is a starting point for a Flutter application.
+## Instalações e usos
 
-A few resources to get you started if this is your first Flutter project:
+<h4 align="center">
+  ⚠️ Antes de rodar a aplicação, é necessário que o Emulador esteja rodando⚠️
+</h4>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Clone ou faça o download desse repositório:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+# Clone o repositório
+$ git clone https://github.com/uisam00/agenda_flutter.git
+```
+
+Dentro da pasta /agenda_flutter rode os seguintes comandos:
+
+```
+# Rode a Aplicação Mobile
+$ Run 'main.dart'
+
+# running on Emulator
+```
