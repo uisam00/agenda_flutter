@@ -5,6 +5,10 @@ Aplicação Mobile feita com [Flutter](https://flutter.dev/) para gerenciar cont
 - [Dart](https://dart.dev/)
 - [sqflite](https://pub.dev/packages/sqflite)
 
+### Visão Geral
+
+O aplicativo apresentado é uma agenda de contatos, os usuários podem adicionar, excluir e ligar para um contato.
+
 ### Funcionalidades da aplicação
 
 * Adição de um novo contato.
