@@ -1,12 +1,12 @@
 Integrantes:
 
-Nome: Guilherme Moreno Guimarães 		      RGA: 2019.1902.024-1
+Nome: Guilherme Moreno Guimarães 		         RGA: 2019.1902.024-1
 
-Nome: Johny Arakaki Sako                  RGA: 2018.1902.079-7
+Nome: Johny Arakaki Sako                     RGA: 2018.1902.079-7
 
-Nome: Marcus Vinícius Romero Nobre Leal		RGA: 2020.1907.080-1
+Nome: Marcus Vinícius Romero Nobre Leal		   RGA: 2020.1907.080-1
 
-Nome: Ui Sam dos Santos				            RGA: 2019.1906.066-9
+Nome: Ui Sam dos Santos				               RGA: 2019.1906.066-9
 
 
 ### agenda_contatos
