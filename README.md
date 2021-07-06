@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Integrantes:
 
 Nome: Guilherme Moreno Guimarães 		         RGA: 2019.1902.024-1
@@ -8,6 +9,13 @@ Nome: Marcus Vinícius Romero Nobre Leal		   RGA: 2020.1907.080-1
 
 Nome: Ui Sam dos Santos				               RGA: 2019.1906.066-9
 
+=======
+### Aluno: 
+- Guilherme Moreno Guimarães          RGA: 2019.1902.024-1
+- Johny Arakaki Sako                  RGA: 2018.1902.079-7
+- Marcus Vinícius Romero Nobre Leal   RGA: 2020.1907.080-1
+- Ui Sam dos Santos                   RGA: 2019.1906.066-9
+>>>>>>> Stashed changes
 
 ### agenda_contatos
 Aplicação Mobile feita com [Flutter](https://flutter.dev/) para gerenciar contatos armazenando os dados no [sqflite](https://pub.dev/packages/sqflite).
